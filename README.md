@@ -35,12 +35,12 @@ Este projeto utiliza o `dotnet user-secrets` para armazenar a chave da API do Se
 
 1.  Clone o repositório:
     ```bash
-    git clone [https://github.com/SeuUsuario/EstudoEnvioEmail](https://github.com/SeuUsuario/EstudoEnvioEmail)
+    git clone https://github.com/Ca22io/Estudo_EnvioEmail
     ```
 
 2.  Navegue até a pasta do projeto:
     ```bash
-    cd EstudoEnvioEmail
+    cd Estudo_EnvioEmail
     ```
 
 3.  Inicialize o User Secrets (Cofre de Segredos):
